@@ -20,7 +20,7 @@ boostingStrategy.treeStrategy.categoricalFeaturesInfo = Map[Int, Int]()
 val model = GradientBoostedTrees.train(trainingData, boostingStrategy)
 
 // Evaluate model on test instances and compute test error
-val labelsAndPredictions = testData.map { point =>
+val labelsAndPredictions = testData.map { point => 
   val prediction = model.predict(point.features)
   (point.label, prediction)
 }
