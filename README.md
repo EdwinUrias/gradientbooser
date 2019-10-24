@@ -24,4 +24,4 @@ This allows gradient increase models to have a very high predictive power but a 
 Gradient enhancement can be used in the classification learning field. Yahoo and Yandex commercial web search engines use gradient boosting variants in their search engines.
 
 *YAHOO
-Nuestros algoritmos personalizan y clasifican el contenido en nuestros productos de búsqueda y medios, potencian la selección de anuncios, detecta spam y evitan el abuso. Esos algoritmos generan valor para los anunciantes, rendimiento para los editores y productividad para los consumidores.*  
+Our algorithms personalize and classify the content in our search and media products, boost ad selection, detect spam and prevent abuse. These algorithms generate value for advertisers, performance for publishers and productivity for consumers.*
