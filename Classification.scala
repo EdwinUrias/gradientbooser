@@ -46,4 +46,4 @@ param: pérdida Función de pérdida utilizada para la minimización durante el 
 param: numIterations Número de iteraciones de impulso. En otras palabras, el número de hipótesis débiles utilizadas en el modelo final. 
 param: learningRate Tasa de aprendizaje para reducir la contribución de cada estimador. La tasa de aprendizaje debe estar entre el intervalo (0, 1] 
 param: validationTol Útil cuando se utiliza runWithValidation. Si la tasa de error en la entrada de validación entre dos iteraciones es menor que validationTol, entonces se detiene. 
-Ignorado cuando runse usa.
+Ignorado cuando runse usa.*/
